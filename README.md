@@ -1,5 +1,5 @@
 # 기초인공지능 프로그래밍
-### COR1010 (컴퓨팅사고력)
+### COR1010 (Python Language)
 
 |Contents|
 |------|
